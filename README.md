@@ -1,16 +1,14 @@
-## Hi there 👋
+## ¡Hola! 👋
 
-<!--
-**ebuisan88/ebuisan88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Sobre mí**
 
-Here are some ideas to get you started:
+Soy arquitecto de software con más de 10 años de experiencia en la industria del retail, especializado en el diseño e implementación de soluciones tecnológicas innovadoras y la modernización de arquitecturas. Actualmente lidero proyectos que transforman la integración y la gestión de datos, optimizando el flujo de información.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Aprendiendo continuamente y esforzandome por mantenerme al día con las últimas tendencias tecnológicas.
+
+Estoy siempre abierto a nuevas oportunidades que me permitan aplicar mis habilidades, apriendiendo en el camino.
+
+📫 **Conéctate conmigo:**
+- [LinkedIn](https://www.linkedin.com/in/esteve-buisan-farr%C3%A9-8850a113/)  
+
+✨ _¡Never give up!_
